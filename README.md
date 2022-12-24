@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Majee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGLfxkDamOCTg/profile-displayphoto-shrink_200_200/0/1661621717477?e=1669852800&v=beta&t=38FabJcNYvFgkZ5Q7Ew9KcG7m0X__4Skj8PosQTpNxc" alt="Ankit's LinkedIn Pic">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmajee&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmajee" /> </p>
@@ -28,7 +28,4 @@
 [![@ankitmajee007's Holopin board](https://holopin.io/api/user/board?user=ankitmajee007)](https://holopin.io/@ankitmajee007)
 
 <a href=#><img src="contributions.svg"></a>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
+
