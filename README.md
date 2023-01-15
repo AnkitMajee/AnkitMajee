@@ -28,4 +28,3 @@
 [![@ankitmajee007's Holopin board](https://holopin.io/api/user/board?user=ankitmajee007)](https://holopin.io/@ankitmajee007)
 
 <a href=#><img src="contributions.svg"></a>
-[![Ankit's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AnkitMajee&theme=dark)](https://github.com/AnkitMajee/leetcode-stats)
