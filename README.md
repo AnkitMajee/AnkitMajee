@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmajee&" alt="ankitmajee" /></p>
 
-<h2 align="left"> Hactoberfest 2022 Badge</h2>
+<h2 align="left"> Hacktoberfest 2022 Badge</h2>
 
 [![@ankitmajee007's Holopin board](https://holopin.io/api/user/board?user=ankitmajee007)](https://holopin.io/@ankitmajee007)
 
