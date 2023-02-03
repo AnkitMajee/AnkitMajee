@@ -28,3 +28,5 @@
 [![@ankitmajee007's Holopin board](https://holopin.io/api/user/board?user=ankitmajee007)](https://holopin.io/@ankitmajee007)
 
 <a href=#><img src="contributions.svg"></a>
+![snake gif](https://raw.githubusercontent.com/AnkitMajee/AnkitMajee/output/github-contribution-grid-snake.svg)
+
