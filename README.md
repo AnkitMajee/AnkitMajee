@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Ankit from <HelloWorld></HelloWorld></p>
+<p align="left">I'm Ankit from HelloWorld </p>
 
 ###
 
@@ -76,6 +76,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitMajee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AnkitMajee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
 </div>
+
+###
+
+[![An image of @ankitmajee007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitmajee007)](https://holopin.io/@ankitmajee007)
 
 ###
 
