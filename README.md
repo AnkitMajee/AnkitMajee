@@ -81,8 +81,4 @@
 
 [![An image of @ankitmajee007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitmajee007)](https://holopin.io/@ankitmajee007)
 
-###
 
-<img src="https://raw.githubusercontent.com/AnkitMajee/AnkitMajee/output/snake.svg" alt="Snake animation" />
-
-###
